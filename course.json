@@ -1,4 +1,4 @@
- [
+[
     {
         Id: "1",
         image: "/Image/Courses-1.jpg",
@@ -58,7 +58,7 @@
     {
         Id: "9",
         image: "/Image/Courses-4.jpg",
-        title: "Graphic Design",
+        title: "Digital Marketing",
         describe: "Some quick example text to build on the card title and make up the bulk of the card’s content.",
         duration: "700 Hours"
     },
@@ -68,5 +68,19 @@
         title: "SQL Developer",
         describe: "Some quick example text to build on the card title and make up the bulk of the card’s content.",
         duration: "1500 Hours"
-    }
-];
+    },
+     {
+        Id: "11",
+        image: "/Image/Courses-1.jpg",
+        title: "Database Developer",
+        describe: "Some quick example text to build on the card title and make up the bulk of the card’s content.",
+        duration: "1800 Hours"
+    },
+    {
+        Id: "12",
+        image: "/Image/Courses-2.jpg",
+        title: "Data Science & Data Analytics",
+        describe: "Some quick example text to build on the card title and make up the bulk of the card’s content.",
+        duration: " 2900 Hours"
+    },
+]
